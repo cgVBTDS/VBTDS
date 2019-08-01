@@ -1,0 +1,2 @@
+VBTDS shall start-up autonomously whenever power is applied to the plane externally or plane power generator is started.
+VBTDS shall shut-down autonomously whenever power is removed from the plane externally and plane power generator is shut-down.
